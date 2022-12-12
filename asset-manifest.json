@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IncomeTracker/static/css/main.49b047fb.css",
+    "main.js": "/IncomeTracker/static/js/main.c0c38066.js",
+    "static/js/787.9dfd54d2.chunk.js": "/IncomeTracker/static/js/787.9dfd54d2.chunk.js",
+    "index.html": "/IncomeTracker/index.html",
+    "main.49b047fb.css.map": "/IncomeTracker/static/css/main.49b047fb.css.map",
+    "main.c0c38066.js.map": "/IncomeTracker/static/js/main.c0c38066.js.map",
+    "787.9dfd54d2.chunk.js.map": "/IncomeTracker/static/js/787.9dfd54d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b047fb.css",
+    "static/js/main.c0c38066.js"
+  ]
+}
